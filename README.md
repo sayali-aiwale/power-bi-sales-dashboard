@@ -21,7 +21,7 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](salesDashboardPB.png)
+![Dashboard](SalesDashboardPB.png)
 
 ## 📁 Files Included
 
